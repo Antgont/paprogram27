@@ -1,0 +1,21 @@
+---
+tags: Antifungal
+---
+- Flucytosine (5FC)
+	- MOA: Competitively inhibits purine & pyrimidine uptake
+	- AE: Confusion, headache, hallucination, bone marrow suppression
+	- Used with amphotericin B for cryptococcus, meningitis
+		- FIRST LINE BABYYY
+- Griseofulvin (Fulvcin)
+	- MOA: binds to fungal microtubules, inhibiting mitosis
+	- AE: rash, urticaria
+	- Use for topical skin infections
+- Terbinafine
+	- MOA: inhibits squalene epoxidase, inhibiting cell wall synthesis
+	- AE: Headache, rash, liver dysfunction
+	- Substituted for Flu or other adverse effects of other drugs
+- Tolnaftate (Tinactin)
+	- MOA: Inhibits squalene epoxidase, inhibiting cell wall synthesis
+	- AE: Local irritation
+	- Topical+Over the counter
+	- Jock Itch+Athelete's foot usage

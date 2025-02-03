@@ -1,0 +1,24 @@
+---
+tags: Viral
+---
+- RNA, non-enveloped
+- Two main groups A & B
+	- Causes different diseases
+	- Group A Viruses: SKin and mucous membrane disease
+		- Herpangina--> F, sore throat, painful vesicles/ulcers in oropharynx
+		- Hand, foot, and mouth disease --> Vesciular rash on hansd/ feet, mouth uclers
+	- Group B viruses
+	- ==**DONT NEED TO KNOW RYAAAHHHHHHHH==**
+- A and B can infect meninges & motor neurons --> paralysis
+- Pathogenesis
+	- Replicate first in oropharynx and intestinal tract
+- Spread to other organs in secondary viremia
+- Diagnosis in meningitis
+	- LP reveals "aseptic" meningitis
+		- White blood cell count low compared to bacterial meningitis
+		- Negative bacterial culturse
+	- PCR of CSF
+- Transmission
+	- Primarly fecal-oral but some respiratory droplets
+- Supportive care for most cases; possible acyclovir if severe
+- No vaccine

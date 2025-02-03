@@ -1,0 +1,11 @@
+---
+tags: Viral
+---
+- Etiology
+	- Enteroviruses cause >85% of viral meningitis cases
+		- [[Coxsackie]], [[Echovirus]], Poliovirus
+	- Herpes simplex virus (HSV)
+	- Varicella-zoster virus (VZV)
+	- Arboviruses
+	- HIV
+	- Mumps virus

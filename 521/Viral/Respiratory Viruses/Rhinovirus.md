@@ -1,0 +1,13 @@
+---
+tags: Viral
+---
+- RNA non-enveloped
+- Most common cause of common cold
+- 100+ serotypes
+- Mode of transmission
+	- Respiratory droplets/aerosols
+		- Coughing, sneezing
+	- Indirect
+		- Hands of infected people; fomites
+- Replicates better in colder body regions
+- Sneezing, nasal discharge, sore throat, cough, HA 

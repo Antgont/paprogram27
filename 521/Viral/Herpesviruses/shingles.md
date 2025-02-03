@@ -1,0 +1,14 @@
+---
+tags: Viral
+---
+- Secondary VZV infection
+	- Reactivation of latent infection (painful)
+	- Characteristic rash with dermatomal distribution
+- Treatment
+	- ANtivirals
+	- Symptomatic Relief
+- Prevention
+	- Herpes-zoster vaccine- live attenuated
+		- Given to those >60 to prevent zoster
+		- Boosts cell mediated immunity
+	- Prevent chickenpox infection by vaccination

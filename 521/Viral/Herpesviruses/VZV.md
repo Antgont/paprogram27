@@ -1,0 +1,34 @@
+---
+tags: Viral
+---
+- Varicella-Zoster Virus 
+- Primary Infection
+	- Varicella
+- Recurrent Infection
+	- Zoster
+- Pathogenesis
+	- Inital Replication at site of infection (mucosa of upper respiratory tract)
+		- Goes through Lympathetics which disseminates into Liver, spleen, reticulendothelia system, T cells
+		- Viremia
+		- Lies dormant
+	- Incubation period to appearance of vesicular rash ~ 14 days
+	- Retrograde axonal transport and latent infection in neuron (Dorsal root ganglion)
+- Transmission- highly communicable
+	- Respiratory droplets and dierect contact of lesions
+- Prevention
+	- Vaccination avaliable
+		- Live attenuated Varivac for varicella
+		- Recombinatn Shingrix for [[shingles]]
+		- [[Vaccine]] 
+- Primary VZV Infection
+	- Vescile on an ertyhematous base
+	- Papule--> Vesicle --> Pustule --> Crust
+	- Trunk/face then to extremities
+	- Pruritis
+- Treatment
+	- Possible but usually only symptomatic
+- Prevention
+	- Passive
+		- Varicella-zoster immunoglobulin for suspceptible pregnant women, immunocrompised, neonates
+	- Active
+		- Live attenuated vaccine

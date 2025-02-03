@@ -1,0 +1,20 @@
+- Onset
+		- How did it start?
+			- What was the settting or circumstance
+			- Sudden/acute vs gradual onset
+	- Precipitating Provoking and Palliating
+		- Something that caused it to happen or symptoms occur or worsen
+	- Quality
+		- Description of problem or pain
+			- Throbbing/ dull/ stabbing
+	- Region Reason or Radiation
+		- Where is the problem? Where is it the worst?
+			- Unilateral, Bilateral, diffuse, localized
+		- Does it Spread?
+	- Severity or Symptoms
+		- Pain scale, quantify amount
+		- Other associated symptoms
+	- Timing
+		- How long has it been going?
+			- Course? worsening, consistent, improving
+			- Previous occurrence?

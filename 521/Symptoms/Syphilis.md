@@ -1,0 +1,3 @@
+- Treponema pallidum
+- Transmitted by intimate contact -STi
+- Three stages of infection

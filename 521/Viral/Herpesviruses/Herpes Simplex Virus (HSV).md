@@ -1,0 +1,21 @@
+---
+tags: Viral
+---
+- Two distinct types
+	- [[HSV-1]]
+	- [[HSV-2]] 
+- Both cause similar disease but typically
+	- HSV1 above the waist
+	- HSV2 below the waist
+- Pathogenesis
+	- Replicate in skin/mucous membrane at site of infection
+		- Migrates up the neurons to establish latent infection in the sensory ganglion
+- Transmission
+	- HSV1: saliva
+	- HSV2: sexual contant
+	- Symptomatic/asymptomatic spread
+- Treatment
+	- Antiviral therapy avaliable
+- Prevention
+	- No vaccine
+	- Treat Symptomatic women during pregnancy

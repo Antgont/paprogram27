@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "521/Bacteria/Gram Positive/Streptococcus Pneumonia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Streptococcus Pneumonia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff675bb670a7e180",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb58d617f5c69fef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e9bd1c6b05f9239",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffe4a552b7901517",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "coag",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a3352e9217438a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "46fcb15f367b08cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee579d298809928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b89fea5a02d128f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d127f394feb3deb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "521/Anti-Fungal/Polyenes/Amphotericin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Amphotericin"
+            }
+          },
+          {
+            "id": "0fae43778396b952",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8b9282eebc0d9751",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "521/Bacteria/Gram Positive/Streptococcus Pneumonia.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Streptococcus Pneumonia"
+            }
+          },
+          {
+            "id": "1231ec7c1f0741df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "521/Anti-Fungal/Polyenes/Amphotericin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Amphotericin"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ffe4a552b7901517",
+  "lastOpenFiles": [
+    "sync.txt",
+    "2025-02-02.md",
+    "git help",
+    "521/Viral/Viral Gastroenteritis/Viral Gastroenteritis.md",
+    "521/Viral/Respiratory Viruses/Respiratory Viruses.md",
+    "521/Viral/CNS/Echovirus.md",
+    "521/Viral/CNS/Coxsackie.md",
+    "521/Viral/CNS/CNS Viral Infections.md",
+    "521/Antibiotics/Other Antibiotics/Tetracyclines/Tigecycline.md",
+    "521/Antibiotics/Other Antibiotics/Tetracyclines/Doxycycline.md",
+    "521/notes to take haha.md",
+    "521/Antibiotics/Beta-lactams/Monobactam/Monobactam.md",
+    "521/Antibiotics/Amino glycoside/Amino glycoside.md",
+    "521/Antibiotics/Beta-lactams/Beta-lactams.md",
+    "521/Antibiotics/Beta-lactams/Monobactam/Aztreonam.md",
+    "521/Antibiotics/Beta-lactams/Cephalosporin/Cephalosporin.md",
+    "521/Bacteria/Non-Gram Staining/Obligate Intraceullular Bacteria/Chlamydia trachomatis.md",
+    "521/Antibiotics/Other Antibiotics/Daptomycin.md",
+    "521/Antibiotics/Beta-lactams/Penicillin (Class).md",
+    "521/Antibiotics/Beta-lactams/Cephalosporin/Cefprozil.md",
+    "521/Antibiotics/Beta-lactams/Cephalosporin/Cefazolin.md",
+    "521/Antibiotics/Beta-lactams/Cephalosporin/Cephalexin.md",
+    "521/Antibiotics/Beta-lactams/Carbapenems/Carbapenems.md",
+    "521/Antibiotics/Beta-lactams/Carbapenems/Imipenem.md",
+    "521/Antibiotics/Beta-lactams/Carbapenems/ertapenem.md",
+    "521/Antibiotics/Beta-lactams/Carbapenems/Meropenem.md",
+    "521/Antibiotics/ampicillin.md",
+    "510/Forearm/Posterior Forearm",
+    "510/Forearm/Anterior Forearm",
+    "Pasted image 20250201224514.png",
+    "Pasted image 20250201223348.png",
+    "510/Forearm",
+    "510",
+    "521/Anki-Notes Done",
+    "Untitled 2.canvas",
+    "521/Viral/Viral Skin",
+    "Pasted image 20250131085044.png",
+    "521/Viral/Hepatitis",
+    "521/Antivirals/Hepatitis C",
+    "521/Antivirals/Coronoavirus",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "531/images/Pasted image 20250122145007.png",
+    "531/images/Pasted image 20250124135808.png",
+    "511/Pharmacology/Pasted image 20250124120129.png",
+    "531/images/Pasted image 20250124132931.png",
+    "531/images/Pasted image 20250124132922.png",
+    "531/images/Pasted image 20250124120717.png",
+    "Antibiotics/Untitled 1.canvas",
+    "Antibiotics/Untitled.canvas",
+    "Antibiotics/Untitled 2.canvas"
+  ]
+}

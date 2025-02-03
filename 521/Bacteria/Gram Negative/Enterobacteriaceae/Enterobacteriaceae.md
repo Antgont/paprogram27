@@ -1,0 +1,20 @@
+---
+tags:
+  - Bacteria
+  - Negative
+---
+- [[G-]] Rods
+- Located in Colon
+- 4 Shared Metabolic Properties
+	- Facultative Anaerobes
+	- Ferment Glucose
+	- Oxidase Negative
+	- Reduce Nitrates to Nitrites
+- [[Escherichia Coli]] 
+- [[Salmonella]] 
+- [[Shigella]] 
+- [[Klebsiella pneumoniae]] 
+- Enterobacter
+- Serratia
+- Proteus
+- Yersinia

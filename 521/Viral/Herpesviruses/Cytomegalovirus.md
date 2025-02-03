@@ -1,0 +1,32 @@
+---
+tags: Viral
+---
+	- DNA, enveloped
+	- Member of herpesvirus family (HHV5)
+- Diseases
+	- Most common viral cause of congenital defects in US
+		- ~15% of still born babies had CMV infection
+- Mono-like syndrome in normal children/adults (mono-spot negative)
+- Immunocompromised patients (AIDS, post transplant)
+	- [[Pneumonia]], [[colitis]], [[retinitis]]
+- Transmission
+	- ~40% of adolescents are infected
+		- Increases to 70-85% of adults
+	- Horizontal
+		- Mostly from saliva
+		- Sexually transmitted
+		- Blood transfusion and organ transplant
+	- Vertical
+		- Transplacental in utero (primary infection in non-immune mother)
+		- During birth
+		- Post-natally in breast milk
+- Pathogeneis
+	- Establishes latent infection in many cell types
+	- Reactivation possible in immunocompromised individuals
+- Most are asymptomatic
+- Diagnosis
+	- [[PCR]] assay; staining of inclusion bodies in giatn cells
+- Treatment
+	- Symptomatic in acute mon-like infection
+	- Antivirals in immunocompromised patients
+- Prevention- No vaccine available

@@ -1,0 +1,24 @@
+---
+tags: Fungal
+---
+- Kingdom Fungi
+	- Eukaryotes
+		- no chlorophyll
+		- non-motile
+	- NOT A PLANT
+	- <<1% known fungi are human pathogens
+	- Essential role in ecosystem breaking down dead matter
+- MOLDS features
+	- Hyphae
+		- Branching elongated structures that grow outward from the tip
+	- Conidia (spores)
+		- Produced on tips or sides of hyphae serve reproductive function and allow transmission
+- Yeats
+	- Small oval cells
+		- Reproduce by budding
+	- ==Sterols in cell membrane==
+		- Important antifungal target but similar to mammal ones
+	- Cell Walls
+		- ==chitin
+		- glucan
+		- 

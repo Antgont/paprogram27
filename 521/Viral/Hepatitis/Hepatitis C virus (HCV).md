@@ -1,0 +1,22 @@
+---
+tags: Viral
+---
+- RNA, enveloped; 6 genotypes (type 1= 75%)
+- Transmission- Blood
+	- High risk; IV drug use; needlestick; sexual transmission
+	- History of blood transfusion Important risk factors
+- Pathogenesis
+	- Not cytotoxic- injury to liver by immune mechanisms
+	- More than 1/2 will develop chronic infection
+	- Complicated by chronic liver disease, cirrhosis, predisposition to HCC
+- Diagnosis
+	- Anti-HCB antibodies via ELISA
+	- If positive, order PCR to detect presence of HCV RNA (active vs past infection)
+- Treatment
+	- Antiviral drugs for HCV
+		- sofobuvir-velpatsvir (Epclusa)
+		- ledpasvir-sofosbuvir (Harvoni)
+		- other combos
+- Prevention
+	- NO VACCINE, hyperimmune globulin, post-exposure ppx
+	- Screening,education

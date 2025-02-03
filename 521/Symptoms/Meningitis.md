@@ -1,0 +1,2 @@
+- Use Vancomycin and Ceftriaxone to cover gram - and gram +
+- Use ampicillin to cover listeria

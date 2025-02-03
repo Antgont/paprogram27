@@ -1,0 +1,15 @@
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+
+# build
+main.js
+*.js.map
+.DS_Store
+*build.js
+*dev.js
+
+.env

@@ -1,0 +1,18 @@
+---
+tags: Viral
+---
+- Disease characteristics
+	- Initially may present like mild [[meningitis]] then rapid progression
+	- Affects level of consciousness
+	- Seizure
+	- Cranal nerve palsies
+- Etiology
+	- Hereppesviruses
+		- [[Herpesviruses]], VZV<, EBV
+	- Arborviruses
+		- [[West Nile]] virus
+		- EEE
+		- WEE
+		- [[St. Louis]] [[Encephalitis]]
+		- Rabies
+		- Others including enteroviruses

@@ -1,0 +1,13 @@
+---
+tags: Anti-Parasite
+---
+- [[Anti-Helminths]] 
+	- Parasitic worm
+	- Can be seen with naked Eye
+- Protozoa
+	- Microscopic, single-celled organism
+	- Can be motile
+- Plasmodium
+	- Protozoa that causes malaria
+	- Falciparum is the most dangerous
+	- Carried by mosquitoes

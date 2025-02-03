@@ -1,0 +1,20 @@
+---
+tags: Viral
+---
+- Arthropod-Borne Virus
+- Three Families
+	- Togaviruses
+	- Flaviviruses
+	- Bunyaviruses
+- Transmitted primarily by ==mosquitoes or ticks==
+- ==Virus able to replicated in both vertebrate host and bloodsucking vector==
+- Disease range from asymptomatic (MC) or mild to rapidly fatal
+	- [[Encephalitis]]
+		- [[West Nile]] 
+		- [[Eastern Equine]] 
+		- [[Western Equine]] 
+		- [[St. Louis]]
+	- Hemorrhagic fever
+		- Dengue fever
+	- Fever with myalgia, arthralgia, rash
+		- Yellow fever 

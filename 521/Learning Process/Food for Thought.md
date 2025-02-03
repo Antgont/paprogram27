@@ -1,0 +1,20 @@
+Malaria
+- Uncomplicated
+- Cyclical of
+	- Chills, fever, sweats
+	- every 2 days with
+		- falciparum
+		- vivax
+		- ovale
+	- every 3 days with
+		- malariae (chronic)
+- 7-30 days post initial exposure
+- Severe
+	- cerebral malaria
+		- abnormal behaviour
+		- seizures
+		- coma
+		- altered mental status
+	- Jaundice
+	- Shock
+	- Edema/ Resp failure

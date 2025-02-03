@@ -1,0 +1,31 @@
+---
+tags: Viral
+---
+- RNA enveloped
+- ==2nd main cause of common cold==
+	- [[Rhinovirus]] is first
+- Transmission
+	- Respiratory droplets
+	- Aerosols
+	- Contact w/ surfaces
+- Symptoms
+	- [[Coryza]] 
+	- Sore throat
+	- Low-grade fever
+
+## Sars Coronavirus
+- Severe acute respiratory syndrome
+- Sars COV-2= COVID-19
+	- Dec 2019 outbreak of [[pneumonia]] in Wuhan, China
+	- USA
+		- 6750546 hospitalization (jan 2024)
+		- 1172229 deaths (jan 2024)
+	- Worldwide
+		- 2020
+			- Case= 98 M
+			- Death= 2.1 M
+		- 2021
+			- 320 M
+			- 5.5 M
+- No preexisting immunity= global pandemic
+- [[F]], nonproductive cough, SOB; fatigue, chills, HA, myalgia
